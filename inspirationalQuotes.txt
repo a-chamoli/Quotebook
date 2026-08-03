@@ -9,3 +9,6 @@ This is the fourth line of Inspirational Quotes.
 If you can dream it you can achieve it.
 
 This line is for testing purpose.
+
+
+This is the stash testing line.
