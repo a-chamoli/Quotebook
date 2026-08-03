@@ -1,3 +1,5 @@
 This is the first line of Inspirational Quotes.
 
 This is the second line of Inspirational Quotes.
+
+This is the third line of Inspirational Quotes.

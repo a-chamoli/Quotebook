@@ -2,3 +2,4 @@ This is the first line of personal Quotes.
 
 This is the second line added to personal quotes in master branch.
 
+This is the third line of Personal Quote file.
