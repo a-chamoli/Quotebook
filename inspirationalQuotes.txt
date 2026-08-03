@@ -5,3 +5,5 @@ This is the second line of Inspirational Quotes.
 This is the third line of Inspirational Quotes.
 
 This is the fourth line of Inspirational Quotes.
+
+If you can dream it you can achieve it.
