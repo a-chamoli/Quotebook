@@ -1,3 +1,5 @@
 This is the temp test file first line.
 
 This is the second line of test file.
+
+This is the third line of test file.
